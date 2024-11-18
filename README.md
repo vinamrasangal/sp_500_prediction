@@ -11,7 +11,7 @@ In this project, we'll predict the price of the S&P500 stock market index.
 
 ## Code
 
-You can find the code for this project [here](https://github.com/dataquestio/project-walkthroughs/tree/master/sp_500).
+You can find the code for this project [here](https://github.com/vinamrasangal/sp_500_prediction/blob/master/market_prediction.ipynb).
 
 File overview:
 
